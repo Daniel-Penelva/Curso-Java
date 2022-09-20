@@ -8,9 +8,6 @@ public class PrimeiroProgramaJava {
 		
 		int numero1 = 10, numero2 = 20, soma, subtracao;
 		soma = numero1 + numero2;
-		
-		String teste = "testando reverter o commit";
-		
 	    System.out.println("Soma" + soma);
 	    
 	    subtracao = numero1 - numero2;
