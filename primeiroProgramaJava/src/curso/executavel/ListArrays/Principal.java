@@ -1,4 +1,4 @@
-package ListArrays;
+package curso.executavel.ListArrays;
 
 import java.util.ArrayList;
 import java.util.List;

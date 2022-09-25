@@ -1,4 +1,4 @@
-package ListArrays;
+package curso.executavel.ListArrays;
 
 public class Disciplina {
 
